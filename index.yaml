@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-guestbook:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-01-26T10:01:42.10555881+01:00"
+    description: A Helm chart for Kubernetes
+    digest: c1c99440dd3adde736ee7deae610587194fc7394d0d44d222e8a24efdf37d21f
+    name: helm-guestbook
+    type: application
+    urls:
+    - helm-guestbook-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-26T10:01:42.10506769+01:00"
